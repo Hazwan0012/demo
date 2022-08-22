@@ -1,3 +1,2 @@
 # demo
-
-redas/
+This is demo for Hazwan
